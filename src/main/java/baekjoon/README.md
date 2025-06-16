@@ -1,6 +1,6 @@
 ## baekjoon 단계별로 풀기
 
-### step01(입출력과 사칙연산)
+### [step01(입출력과 사칙연산)](https://www.acmicpc.net/step/1)
 
 - [x] 2557
   - Hello World
@@ -29,7 +29,7 @@
 - [x] 10172
   - 개
 
-### step04(조건문)
+### [step04(조건문)](https://www.acmicpc.net/step/4)
 
 - [x] 1330
   - 두 수 비교하기
@@ -46,5 +46,9 @@
 - [x] 2480
   - 오븐 시계
 
+### [step03(반복문)](https://www.acmicpc.net/step/3)
+
+- [x] [2739](https://www.acmicpc.net/problem/2739)
+  - 구구단
 
 
