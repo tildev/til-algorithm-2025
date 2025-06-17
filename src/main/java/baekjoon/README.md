@@ -54,6 +54,8 @@
   - A+B -3
 - [x] [8393](https://www.acmicpc.net/problem/8393)
   - 합
+- [x] [25304](https://www.acmicpc.net/problem/25304)
+  - 영수증
 - 
 
 
