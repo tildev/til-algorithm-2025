@@ -52,6 +52,8 @@
   - 구구단
 - [x] [10950](https://www.acmicpc.net/problem/10950)
   - A+B -3
+- [x] [8393](https://www.acmicpc.net/problem/8393)
+  - 합
 - 
 
 
