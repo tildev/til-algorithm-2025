@@ -60,6 +60,8 @@
   - 코딩은 체육과목 입니다
 - [x] [15552](https://www.acmicpc.net/problem/15552)
   - 빠른 A+B
+- [x] [11021](https://www.acmicpc.net/problem/11021)
+  - A+B - 7
 - 
 
 
