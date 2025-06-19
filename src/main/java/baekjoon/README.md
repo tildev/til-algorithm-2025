@@ -58,6 +58,8 @@
   - 영수증
 - [x] [25314](https://www.acmicpc.net/problem/25314)
   - 코딩은 체육과목 입니다
+- [x] [15552](https://www.acmicpc.net/problem/15552)
+  - 빠른 A+B
 - 
 
 
