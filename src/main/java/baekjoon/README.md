@@ -62,6 +62,8 @@
   - 빠른 A+B
 - [x] [11021](https://www.acmicpc.net/problem/11021)
   - A+B - 7
+- [x] [11022](https://www.acmicpc.net/problem/11022)
+  - A+B - 8
 - 
 
 
