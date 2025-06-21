@@ -64,6 +64,8 @@
   - A+B - 7
 - [x] [11022](https://www.acmicpc.net/problem/11022)
   - A+B - 8
+- [x] [2438](https://www.acmicpc.net/problem/2438)
+  - 별 찍기 - 1
 - 
 
 
