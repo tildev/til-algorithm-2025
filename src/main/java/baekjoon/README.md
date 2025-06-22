@@ -72,6 +72,11 @@
   - A+B - 5
 - [x] [10951](https://www.acmicpc.net/problem/10951)
   - A+B - 4
+
+### [step06(1차원 배열)](https://www.acmicpc.net/step/6)
+
+- [x] [10807](https://www.acmicpc.net/problem/10807)
+  - 개수 세기
 - 
 
 
