@@ -77,6 +77,8 @@
 
 - [x] [10807](https://www.acmicpc.net/problem/10807)
   - 개수 세기
+- [x] [10871](https://www.acmicpc.net/problem/10871)
+  - X보다 작은 수
 - 
 
 
