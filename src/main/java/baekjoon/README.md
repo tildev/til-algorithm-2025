@@ -79,6 +79,8 @@
   - 개수 세기
 - [x] [10871](https://www.acmicpc.net/problem/10871)
   - X보다 작은 수
+- [x] [10818](https://www.acmicpc.net/problem/10818)
+  - 최소, 최대
 - 
 
 
