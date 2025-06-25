@@ -81,6 +81,8 @@
   - X보다 작은 수
 - [x] [10818](https://www.acmicpc.net/problem/10818)
   - 최소, 최대
+- [x] [2562](https://www.acmicpc.net/problem/2562)
+  - 최댓값
 - 
 
 
