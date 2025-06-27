@@ -83,6 +83,8 @@
   - 최소, 최대
 - [x] [2562](https://www.acmicpc.net/problem/2562)
   - 최댓값
+- [x] [10810](https://www.acmicpc.net/problem/10810)
+  - 공 넣기
 - 
 
 
