@@ -93,6 +93,8 @@
   - 나머지
 - [x] [10811](https://www.acmicpc.net/problem/10811)
   - 바구니 뒤집기
+- [x] [1546](https://www.acmicpc.net/problem/1546)
+  - 평균
 - 
 
 
