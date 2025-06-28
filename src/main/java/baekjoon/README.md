@@ -89,6 +89,8 @@
   - 공 바꾸기
 - [x] [5597](https://www.acmicpc.net/problem/5597)
   - 과제 안 내신 분..?
+- [x] [3052](https://www.acmicpc.net/problem/3052)
+  - 나머지
 - 
 
 
