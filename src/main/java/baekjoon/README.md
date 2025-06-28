@@ -85,6 +85,8 @@
   - 최댓값
 - [x] [10810](https://www.acmicpc.net/problem/10810)
   - 공 넣기
+- [x] [10813](https://www.acmicpc.net/problem/10813)
+  - 공 바꾸기
 - 
 
 
