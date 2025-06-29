@@ -95,7 +95,10 @@
   - 바구니 뒤집기
 - [x] [1546](https://www.acmicpc.net/problem/1546)
   - 평균
+
+### [step07(1차원 배열)](https://www.acmicpc.net/step/7)
+
+- [x] [27866](https://www.acmicpc.net/problem/27866)
+  - 문자와 문자
 - 
-
-
 
