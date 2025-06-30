@@ -100,5 +100,7 @@
 
 - [x] [27866](https://www.acmicpc.net/problem/27866)
   - 문자와 문자
+- [x] [2743](https://www.acmicpc.net/problem/2743)
+  - 단어 길이 재기
 - 
 
