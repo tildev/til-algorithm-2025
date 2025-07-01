@@ -106,5 +106,7 @@
   - 문자열
 - [x] [11654](https://www.acmicpc.net/problem/11654)
   - 아스키 코드
+- [x] [11720](https://www.acmicpc.net/problem/11720)
+  - 숫자의 합
 - 
 
