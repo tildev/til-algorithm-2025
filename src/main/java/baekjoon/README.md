@@ -110,5 +110,7 @@
   - 숫자의 합
 - [x] [10809](https://www.acmicpc.net/problem/10809)
   - 알파벳 찾기
+- [x] [2675](https://www.acmicpc.net/problem/2675)
+  - 문자열 반복
 - 
 
