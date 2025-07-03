@@ -114,6 +114,8 @@
   - 문자열 반복
 - [x] [1152](https://www.acmicpc.net/problem/1152)
   - 단어의 개수
+- [x] [2908](https://www.acmicpc.net/problem/2908)
+  - 상수
 - 
 
 
