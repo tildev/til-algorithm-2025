@@ -112,5 +112,8 @@
   - 알파벳 찾기
 - [x] [2675](https://www.acmicpc.net/problem/2675)
   - 문자열 반복
+- [x] [1152](https://www.acmicpc.net/problem/1152)
+  - 단어의 개수
 - 
+
 
