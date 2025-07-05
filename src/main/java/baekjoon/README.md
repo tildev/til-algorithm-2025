@@ -118,6 +118,8 @@
   - 상수
 - [x] [5622](https://www.acmicpc.net/problem/5622)
   - 다이얼
+- [x] [11718](https://www.acmicpc.net/problem/11718)
+  - 그대로 출력하기
 - 
 
 
