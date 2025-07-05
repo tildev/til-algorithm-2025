@@ -116,6 +116,8 @@
   - 단어의 개수
 - [x] [2908](https://www.acmicpc.net/problem/2908)
   - 상수
+- [x] [5622](https://www.acmicpc.net/problem/5622)
+  - 다이얼
 - 
 
 
