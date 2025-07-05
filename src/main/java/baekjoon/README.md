@@ -120,6 +120,11 @@
   - 다이얼
 - [x] [11718](https://www.acmicpc.net/problem/11718)
   - 그대로 출력하기
+
+### [step52(심화 1)](https://www.acmicpc.net/step/52)
+
+- [x] [25083](https://www.acmicpc.net/problem/25083)
+  - 새싹
 - 
 
 
