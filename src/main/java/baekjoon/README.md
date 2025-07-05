@@ -125,6 +125,8 @@
 
 - [x] [25083](https://www.acmicpc.net/problem/25083)
   - 새싹
+- [x] [3003](https://www.acmicpc.net/problem/3003)
+  - 킹, 퀸, 룩, 비숍, 나이트, 폰
 - 
 
 
