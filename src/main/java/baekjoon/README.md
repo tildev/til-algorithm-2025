@@ -129,6 +129,8 @@
   - 킹, 퀸, 룩, 비숍, 나이트, 폰
 - [x] [2444](https://www.acmicpc.net/problem/2444)
   - 별 찍기 - 7
-- 
+- [x] [10988](https://www.acmicpc.net/problem/10988)
+  - 팰린드롬인지 확인하기
+-
 
 
