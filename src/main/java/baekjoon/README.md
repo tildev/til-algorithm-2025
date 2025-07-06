@@ -127,6 +127,8 @@
   - 새싹
 - [x] [3003](https://www.acmicpc.net/problem/3003)
   - 킹, 퀸, 룩, 비숍, 나이트, 폰
+- [x] [2444](https://www.acmicpc.net/problem/2444)
+  - 별 찍기 - 7
 - 
 
 
