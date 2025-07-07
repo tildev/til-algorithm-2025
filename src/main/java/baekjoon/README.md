@@ -135,6 +135,8 @@
   - 단어 공부
 - [x] [2941](https://www.acmicpc.net/problem/2941)
   - 크로아티아 알파벳
+- [x] [1316](https://www.acmicpc.net/problem/1316)
+  - 그룹 단어 체커
 -
 
 
