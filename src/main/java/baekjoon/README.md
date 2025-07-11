@@ -139,6 +139,11 @@
   - 그룹 단어 체커
 - [x] [25206](https://www.acmicpc.net/problem/25206)
   - 너의 평점은
--
+
+### [step2(2차원 배열)](https://www.acmicpc.net/step/2)
+
+- [x] [2738](https://www.acmicpc.net/problem/2738)
+  - 행렬 덧셈
+- 
 
 
