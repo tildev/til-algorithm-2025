@@ -144,6 +144,8 @@
 
 - [x] [2738](https://www.acmicpc.net/problem/2738)
   - 행렬 덧셈
+- [x] [2566](https://www.acmicpc.net/problem/2566)
+  - 최댓값
 - 
 
 
