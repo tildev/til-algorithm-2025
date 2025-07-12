@@ -25,11 +25,6 @@ fun main() {
     bw.write("$maxValue\n")
     bw.write("${rowIndex + 1} ${colIndex + 1}")
 
-    Array(9) { row ->
-
-    }
-
-
     bw.flush()
     bw.close()
 }
