@@ -148,6 +148,8 @@
   - 최댓값
 - [x] [10798](https://www.acmicpc.net/problem/10798)
   - 세로읽기
+- [x] [2563](https://www.acmicpc.net/problem/2563)
+  - 색종이
 - 
 
 
