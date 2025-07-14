@@ -150,6 +150,11 @@
   - 세로읽기
 - [x] [2563](https://www.acmicpc.net/problem/2563)
   - 색종이
+
+### [step8(수학 1)](https://www.acmicpc.net/step/8)
+
+- [x] [2745](https://www.acmicpc.net/problem/2745)
+  - 진법 변환
 - 
 
 
