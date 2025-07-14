@@ -155,6 +155,8 @@
 
 - [x] [2745](https://www.acmicpc.net/problem/2745)
   - 진법 변환
+- [x] [11005](https://www.acmicpc.net/problem/11005)
+  - 진법 변환 2
 - 
 
 
