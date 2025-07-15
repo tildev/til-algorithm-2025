@@ -161,6 +161,8 @@
   - 세탁소 사장 동혁
 - [x] [2903](https://www.acmicpc.net/problem/2903)
   - 중앙 이동 알고리즘
+- [x] [2292](https://www.acmicpc.net/problem/2292)
+  - 벌집
 - 
 
 
