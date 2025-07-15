@@ -159,6 +159,8 @@
   - 진법 변환 2
 - [x] [2720](https://www.acmicpc.net/problem/2720)
   - 세탁소 사장 동혁
+- [x] [2903](https://www.acmicpc.net/problem/2903)
+  - 중앙 이동 알고리즘
 - 
 
 
