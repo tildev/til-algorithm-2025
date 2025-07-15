@@ -157,6 +157,8 @@
   - 진법 변환
 - [x] [11005](https://www.acmicpc.net/problem/11005)
   - 진법 변환 2
+- [x] [2720](https://www.acmicpc.net/problem/2720)
+  - 세탁소 사장 동혁
 - 
 
 
