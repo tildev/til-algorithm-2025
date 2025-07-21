@@ -163,6 +163,8 @@
   - 중앙 이동 알고리즘
 - [x] [2292](https://www.acmicpc.net/problem/2292)
   - 벌집
+- [x] [1193](https://www.acmicpc.net/problem/1193)
+  - 분수찾기
 - 
 
 
