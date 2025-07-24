@@ -165,6 +165,8 @@
   - 벌집
 - [x] [1193](https://www.acmicpc.net/problem/1193)
   - 분수찾기
+- [x] [2869](https://www.acmicpc.net/problem/2869)
+  - 달팽이는 올라가고 싶다
 - 
 
 
