@@ -167,6 +167,12 @@
   - 분수찾기
 - [x] [2869](https://www.acmicpc.net/problem/2869)
   - 달팽이는 올라가고 싶다
-- 
+
+### [step10(약수, 배수와 소수 1)](https://www.acmicpc.net/step/10)
+
+- [x] [5086](https://www.acmicpc.net/problem/5086)
+  - 배수와 약수
+-
+
 
 
