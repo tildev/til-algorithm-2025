@@ -172,7 +172,9 @@
 
 - [x] [5086](https://www.acmicpc.net/problem/5086)
   - 배수와 약수
--
+- [x] [2501](https://www.acmicpc.net/problem/2501)
+  - 약수 구하기
+- 
 
 
 
