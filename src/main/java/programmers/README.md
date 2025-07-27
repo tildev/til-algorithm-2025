@@ -31,4 +31,6 @@
   - 조건에 맞게 수열 변환하기 1
 - [x] [181942](https://school.programmers.co.kr/learn/courses/30/lessons/181942)
   - 문자열 섞기
+- [x] [181941](https://school.programmers.co.kr/learn/courses/30/lessons/181941)
+  - 문자 리스트를 문자열로 변환하기
 - 
