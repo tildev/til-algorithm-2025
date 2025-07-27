@@ -19,7 +19,7 @@
   - 덧셈식 출력하기
 - [x] [181946](https://school.programmers.co.kr/learn/courses/30/lessons/181946)
   - 문자열 붙여서 출력하기
-- [ ] [181945](https://school.programmers.co.kr/learn/courses/30/lessons/181945)
+- [x] [181945](https://school.programmers.co.kr/learn/courses/30/lessons/181945)
   - 문자열 돌리기
 - [ ] [181944](https://school.programmers.co.kr/learn/courses/30/lessons/181944)
   - 홀짝 구분하기
