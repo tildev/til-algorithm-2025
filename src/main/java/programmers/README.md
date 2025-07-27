@@ -21,7 +21,7 @@
   - 문자열 붙여서 출력하기
 - [x] [181945](https://school.programmers.co.kr/learn/courses/30/lessons/181945)
   - 문자열 돌리기
-- [ ] [181944](https://school.programmers.co.kr/learn/courses/30/lessons/181944)
+- [x] [181944](https://school.programmers.co.kr/learn/courses/30/lessons/181944)
   - 홀짝 구분하기
 - [ ] [181943](https://school.programmers.co.kr/learn/courses/30/lessons/181943)
   - 문자열 겹쳐쓰기
