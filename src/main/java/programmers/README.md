@@ -3,7 +3,9 @@
 ### [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=kotlin%2Cjava)
 
 - [x] [181952](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
-    - 문자열 출력하기
+  - 문자열 출력하기
 - [x] [181951](https://school.programmers.co.kr/learn/courses/30/lessons/181951)
-    - a 와 b 출력하기
+  - a 와 b 출력하기
+- [x] [181950](https://school.programmers.co.kr/learn/courses/30/lessons/181950)
+  - 문자열 반복해서 출력하기
 - 
