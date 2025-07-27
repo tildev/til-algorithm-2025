@@ -17,7 +17,7 @@
 #### Day02 출력, 연산
 - [x] [181947](https://school.programmers.co.kr/learn/courses/30/lessons/181947)
   - 덧셈식 출력하기
-- [ ] [181946](https://school.programmers.co.kr/learn/courses/30/lessons/181946)
+- [x] [181946](https://school.programmers.co.kr/learn/courses/30/lessons/181946)
   - 문자열 붙여서 출력하기
 - [ ] [181945](https://school.programmers.co.kr/learn/courses/30/lessons/181945)
   - 문자열 돌리기
