@@ -29,4 +29,6 @@
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
   - 조건에 맞게 수열 변환하기 1
-
+- [x] [181942](https://school.programmers.co.kr/learn/courses/30/lessons/181942)
+  - 문자열 섞기
+- 
