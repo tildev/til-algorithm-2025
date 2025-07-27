@@ -4,4 +4,6 @@
 
 - [x] [181952](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
     - 문자열 출력하기
+- [x] [181951](https://school.programmers.co.kr/learn/courses/30/lessons/181951)
+    - a 와 b 출력하기
 - 
