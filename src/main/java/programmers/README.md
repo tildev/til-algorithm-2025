@@ -8,4 +8,6 @@
   - a 와 b 출력하기
 - [x] [181950](https://school.programmers.co.kr/learn/courses/30/lessons/181950)
   - 문자열 반복해서 출력하기
+- [x] [181949](https://school.programmers.co.kr/learn/courses/30/lessons/181949)
+  - 대소문자 바꿔서 출력하기
 - 
