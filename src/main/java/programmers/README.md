@@ -29,7 +29,9 @@
 ### Day03 연산
 - [x] [181940](https://school.programmers.co.kr/learn/courses/30/lessons/181940)
   - 문자열 곱하기
--
+- [x] [181939](https://school.programmers.co.kr/learn/courses/30/lessons/181939)
+  - 더 크게 합치기
+- 
 
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
