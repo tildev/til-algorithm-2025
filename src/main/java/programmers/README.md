@@ -26,6 +26,11 @@
 - [x] [181943](https://school.programmers.co.kr/learn/courses/30/lessons/181943)
   - 문자열 겹쳐쓰기
 
+### Day03 연산
+- [x] [181940](https://school.programmers.co.kr/learn/courses/30/lessons/181940)
+  - 문자열 곱하기
+-
+
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
   - 조건에 맞게 수열 변환하기 1
