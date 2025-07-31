@@ -31,7 +31,9 @@
   - 문자열 곱하기
 - [x] [181939](https://school.programmers.co.kr/learn/courses/30/lessons/181939)
   - 더 크게 합치기
-- 
+- [x] [181938](https://school.programmers.co.kr/learn/courses/30/lessons/181938)
+  - 두 수의 연산값 비교하기
+-
 
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
