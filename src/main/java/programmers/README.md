@@ -37,7 +37,9 @@
 ### Day04 연산, 조건문
 - [x] [181937](https://school.programmers.co.kr/learn/courses/30/lessons/181937)
   - n의 배수
-- 
+- [x] [181936](https://school.programmers.co.kr/learn/courses/30/lessons/181936)
+  - 공배수
+-
 
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
