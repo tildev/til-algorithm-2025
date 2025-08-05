@@ -1,6 +1,6 @@
 ## programmers 코딩테스트 연습
 
-### [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=kotlin%2Cjava)
+### [코딩 기초 트레이닝(training)](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=kotlin%2Cjava)
 
 #### Day01 출력
 - [x] [181952](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
@@ -26,7 +26,7 @@
 - [x] [181943](https://school.programmers.co.kr/learn/courses/30/lessons/181943)
   - 문자열 겹쳐쓰기
 
-### Day03 연산
+#### Day03 연산
 - [x] [181940](https://school.programmers.co.kr/learn/courses/30/lessons/181940)
   - 문자열 곱하기
 - [x] [181939](https://school.programmers.co.kr/learn/courses/30/lessons/181939)
@@ -34,12 +34,11 @@
 - [x] [181938](https://school.programmers.co.kr/learn/courses/30/lessons/181938)
   - 두 수의 연산값 비교하기
 
-### Day04 연산, 조건문
+#### Day04 연산, 조건문
 - [x] [181937](https://school.programmers.co.kr/learn/courses/30/lessons/181937)
   - n의 배수
 - [x] [181936](https://school.programmers.co.kr/learn/courses/30/lessons/181936)
   - 공배수
--
 
 #### Lv. 0
 - [x] [181882](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
@@ -48,4 +47,10 @@
   - 문자열 섞기
 - [x] [181941](https://school.programmers.co.kr/learn/courses/30/lessons/181941)
   - 문자 리스트를 문자열로 변환하기
+
+## [고득점 Kit(practice)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
+### [해시(hash)](https://school.programmers.co.kr/learn/courses/30/parts/12077)
+- [x] [42576](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
+  - 완주하지 못한 선수
 - 
