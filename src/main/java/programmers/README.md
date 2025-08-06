@@ -53,4 +53,6 @@
 ### [해시(hash)](https://school.programmers.co.kr/learn/courses/30/parts/12077)
 - [x] [42576](https://school.programmers.co.kr/learn/courses/30/lessons/181882)
   - 완주하지 못한 선수
+- [x] [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+  - 폰켓몬
 - 
